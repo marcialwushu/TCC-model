@@ -20,22 +20,22 @@ Arquitetura básica do **html**, *ainda em organização*.
 Estrutura do documento:
 
 
-	*Resumo
-	*Abstract
-	*Sumário
+	* Resumo
+	* Abstract
+	* Sumário
 	
 Lista numerada do documento:
 
-	1. **INTRODUÇÃO**
-	2. **REFERÊNCIAL TEÓRICO**
-	3. **METODOLOGIA**
-	4. **ANÁLISE E DISCUSSÃO DOS DADOS**
+	1. **INTRODUÇÃO**,
+	2. **REFERÊNCIAL TEÓRICO**,
+	3. **METODOLOGIA**,
+	4. **ANÁLISE E DISCUSSÃO DOS DADOS**,
 
-	* **CONCLUSÃO**
-	* **REFERÊNCIAS**
+	* _CONCLUSÃO_,
+	* _REFERÊNCIAS_,
 
 
-Seguindo normas conforme ABNT exclamation mark dot
+Seguindo normas conforme ABNT.
 
 
 
