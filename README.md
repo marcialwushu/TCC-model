@@ -17,22 +17,21 @@ by Cleilson de Sousa Pereira
 Arquitetura básica do **html**, *ainda em organização*.
 
 
-Estrutura do documento:
+**Estrutura do documento**:
 
 
 	* Resumo
 	* Abstract
 	* Sumário
 	
-Lista numerada do documento:
+**Lista numerada do documento**:
 
-	1. **INTRODUÇÃO**
-	2. **REFERÊNCIAL TEÓRICO**
-	3. **METODOLOGIA**
-	4. **ANÁLISE E DISCUSSÃO DOS DADOS**
-
-	> _CONCLUSÃO_
-	> _REFERÊNCIAS_
+	1. INTRODUÇÃO
+	2. REFERÊNCIAL TEÓRICO
+	3. METODOLOGIA
+	4. ANÁLISE E DISCUSSÃO DOS DADOS
+	5. CONCLUSÃO
+	6. REFERÊNCIAS
 
 
 Seguindo normas conforme ABNT.
