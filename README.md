@@ -1,4 +1,4 @@
-# TCC - MODELO HTML 
+# **TCC - MODELO HTML** 
 
 ## Estrutura básica de elaboração da tese de conclusão de curso
 
@@ -26,13 +26,13 @@ Estrutura do documento:
 	
 Lista numerada do documento:
 
-	1. **INTRODUÇÃO**,
-	2. **REFERÊNCIAL TEÓRICO**,
-	3. **METODOLOGIA**,
-	4. **ANÁLISE E DISCUSSÃO DOS DADOS**,
+	1. **INTRODUÇÃO**
+	2. **REFERÊNCIAL TEÓRICO**
+	3. **METODOLOGIA**
+	4. **ANÁLISE E DISCUSSÃO DOS DADOS**
 
-	* _CONCLUSÃO_,
-	* _REFERÊNCIAS_,
+	> _CONCLUSÃO_
+	> _REFERÊNCIAS_
 
 
 Seguindo normas conforme ABNT.
